@@ -8,5 +8,5 @@ Our active repositories explained. These power our web app:
 - `sem-ops-utils` Bundles libs and provides utils to `matching-engine` and `console`. Used for tests in `matching-engine`.
 
 These are tools we built to help us with data modeling:
-- `shacl-generator` AI-playground to create SHACL shapes from text
-- `console` semOps: a linked data operations flow tool
+- `shacl-generator` AI-playground to create SHACL shapes from text.
+- `console` semOps: a linked data operations flow tool.
