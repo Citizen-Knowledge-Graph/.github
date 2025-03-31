@@ -1,4 +1,4 @@
-*Overview of our active repositories*
+*Overview of our active repositories:*
 
 ### These power our web app:
 - `foerderfunke-react-app` The web app, live at [foerderfunke.org](https://foerderfunke.org) 🙌
@@ -8,4 +8,4 @@
 
 ### These are tools we built to help us with data modeling:
 - `shacl-generator` AI-playground to create SHACL shapes from text.
-- `console` semOps: a linked data operations flow tool.
+- `console` semOps: a linked data operations flow tool, live at [console.foerderfunke.org](https://console.foerderfunke.org)
